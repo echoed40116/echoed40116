@@ -1,16 +1,17 @@
-### Hi there 👋
+# 專長
+🏀籃球 
 
-<!--
-**echoed40116/echoed40116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻Python、C++、Java
 
-Here are some ideas to get you started:
+🤖Mechine Lerning、Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 經歷
+🏫敦化國小三年級唐詩三百首比賽第一名
+
+🏫士林國小五年級、六年級模範生
+
+🏫台北市立陽明國中、高中擔任班長
+
+🏫淡江大學資管系學士
+
+🏫輔仁大學資管系碩士
